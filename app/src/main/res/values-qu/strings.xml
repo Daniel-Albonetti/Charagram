@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crea_aquí">Crea Aquí</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_username">Nombre de Usuario</string>
+    <string name="no_tengo_cuenta">¿No tienes cuenta?,</string>
+    <string name="text_button_login">Entrar</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_usuarionew">Usuario</string>
+    <string name="hint_clavenew">Contraseña</string>
+    <string name="hint_confirmarclave">Confirmar Contraseña</string>
+    <string name="text_button_nuevousuario">Únete</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">4 Dias</string>
+    <string name="likenumbercard">10 Me Gusta</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_profile">Yo</string>
+    <string name="secondworddatail">Me Gusta</string>
+</resources>

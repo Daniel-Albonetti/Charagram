@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_username">UserName</string>
+    <string name="hint_password">Password</string>
+    <string name="text_button_login">Login</string>
+    <string name="no_tengo_cuenta">¿Dont have account?,</string>
+    <string name="crea_aquí">Create Here</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_usuarionew">Usuario</string>
+    <string name="hint_clavenew">Contraseña</string>
+    <string name="hint_confirmarclave">Confirmar Contraseña</string>
+    <string name="text_button_nuevousuario">Únete</string>
+    <string name="toolbar_tittle_nuevacuenta">Create Account</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">4 Dias</string>
+    <string name="likenumbercard">10 Me Gusta</string>
+    <string name="tab_search">Search</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_profile">Me</string>
+    <string name="secondworddatail">Me Gusta</string>
+</resources>
